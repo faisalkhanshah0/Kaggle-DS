@@ -1,0 +1,52 @@
+[
+  {
+    "filename": "Calendar.csv",
+    "folder": "Calendar",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Calendar.csv"
+  },
+  {
+    "filename": "Returns.csv",
+    "folder": "Returns",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Returns.csv"
+  },
+  {
+    "filename": "Customers.csv",
+    "folder": "Customers",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Customers.csv"
+  },
+  {
+    "filename": "Sales_2015.csv",
+    "folder": "Sales_2015",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Sales_2015.csv"
+  },
+  {
+    "filename": "Product_Categories.csv",
+    "folder": "Product_Categories",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Product_Categories.csv"
+  },
+  {
+    "filename": "Sales_2016.csv",
+    "folder": "Sales_2016",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Sales_2016.csv"
+  },
+  {
+    "filename": "Products.csv",
+    "folder": "Products",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Products.csv"
+  },
+  {
+    "filename": "Sales_2017.csv",
+    "folder": "Sales_2017",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Sales_2017.csv"
+  },
+  {
+    "filename": "Product_Subcategories.csv",
+    "folder": "Product_Subcategories",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Product_Subcategories.csv"
+  },
+  {
+    "filename": "Territories.csv",
+    "folder": "Territories",
+    "relative_path": "faisalkhanshah0/Kaggle-DS/refs/heads/main/AdventureWorks-DS/AdventureWorks_Territories.csv"
+  }
+]
